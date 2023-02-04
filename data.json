@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "content": "Fare la spesa",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "content": "Lavorare",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "content": "Cucinare",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "content": "Studiare",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
